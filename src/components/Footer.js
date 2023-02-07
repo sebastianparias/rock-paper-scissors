@@ -3,15 +3,6 @@ import Rules from "../images/image-rules.svg";
 import Close from "../images/icon-close.svg";
 import { Button, Overlay, Modal } from "../Styles";
 
-const rulesHeaderStyle = {
-  display: "inline",
-  marginRight: "60%",
-};
-
-const flexbox = {
-
-};
-
 const Footer = () => {
   const [showRules, setShowRules] = useState(false);
 
