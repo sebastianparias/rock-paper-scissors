@@ -6,6 +6,7 @@ import { Card } from "../Styles";
 const scoreTextStyles = {
   fontSize: "1rem",
   color: "blue",
+  textAlign: "center"
 };
 
 const scoreStyles = {
